@@ -1,5 +1,6 @@
 ---
 title: Hello, I'm João! 👋
+---
 
 I'm a **Statistics student at UFRJ** and a Back-end Developer at **EJCM**.
 
@@ -12,4 +13,3 @@ I'm interested in **Data Science**, **Entrepreneurship**, and web development wi
 
 ## 📫 Get in touch
 Feel free to explore my repositories!
----
