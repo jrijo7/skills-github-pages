@@ -1,5 +1,3 @@
-# Hello, I'm João! 👋
-
 I'm a **Statistics student at UFRJ** and a Back-end Developer at **EJCM**.
 
 ## 🚀 About Me
